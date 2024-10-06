@@ -2,7 +2,7 @@ Hi, I'm Mehmet  ---- SDET & QA
 
 🏠 Türkiye
 
-📍 Füssen, Germany
+📍Füssen, Germany
 
 📧 muavvizmir@gmail.com
 
